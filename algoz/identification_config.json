@@ -1,0 +1,5 @@
+'{"private_container": "data://.my/threeza_private",
+  "private_key_file":"data://.my/threeza_private/private_key.json",
+  "public_containter":"data://.my/threeza_public",
+  "public_key_file":"data://.my/threeza_public/public_key.json"
+  }'
